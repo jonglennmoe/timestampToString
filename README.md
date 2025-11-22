@@ -30,9 +30,9 @@ Code coverage can be found in the coverage folder which is created once running 
 ## Usage
 
 ```
-import timestampToString from '../src/time';
+import timestampToAgoString from '../src/time';
 
-timestampToString(milliseconds)
+timestampToAgoString(milliseconds)
 ```
 
 
