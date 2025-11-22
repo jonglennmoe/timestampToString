@@ -26,8 +26,6 @@ npm test
 
 ## Usage
 
-**Run tests**
-
 ```
 import timestampToString from '../src/time';
 
