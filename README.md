@@ -2,7 +2,7 @@
 
 A small util for converting a timestamp to a string. Pass in a timestamp and get a string back that says how long ago it was.
 
-n example could be, "interacted 5 seconds ago".
+An example could be, "interacted 5 seconds ago".
 
 - "XX seconds ago"
 - "XX minutes ago"
